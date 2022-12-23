@@ -21,7 +21,7 @@
 				<p
 					class="mt-3 text-base text-white sm:mx-auto sm:mt-5 sm:max-w-xl sm:text-lg md:mt-5 md:text-xl lg:mx-0"
 				>
-					More info comming soon!
+					More info coming soon!
 				</p>
 			</div>
 		</main>

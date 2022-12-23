@@ -1,6 +1,4 @@
 <script>
-	import Counter from './Counter.svelte';
-	import welcome from '$lib/images/svelte-welcome.webp';
 	import homepage_image from '$lib/images/homepage.webp';
 </script>
 
